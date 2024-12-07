@@ -1,4 +1,4 @@
-# Working title: Subcellular re-organisation of ferroptotic proteins upon ionizing radiation suggests radioresistant mechanism
+# Subcellular re-organisation of ferroptotic proteins upon ionizing radiation suggests radioresistant mechanism
 
 This repository contains the codes used for the data analysis and visualization of the research from [Global proteomics indicates subcellular-specific anti-ferroptotic responses to ionizing radiation](https://doi.org/10.1016/j.mcpro.2024.100888).
 
