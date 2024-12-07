@@ -2472,6 +2472,9 @@ ggplot(mcdf, aes(Organelle, Probability), width = Probability) +
 
 ```
 
+<br>
+
+# Session info
 
 ```{r}
 sessionInfo()
